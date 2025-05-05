@@ -1,0 +1,14 @@
+D:\1-100\Day1-GuessingGame\bin\Debug\net8.0\Day1-GuessingGame.exe
+D:\1-100\Day1-GuessingGame\bin\Debug\net8.0\Day1-GuessingGame.deps.json
+D:\1-100\Day1-GuessingGame\bin\Debug\net8.0\Day1-GuessingGame.runtimeconfig.json
+D:\1-100\Day1-GuessingGame\bin\Debug\net8.0\Day1-GuessingGame.dll
+D:\1-100\Day1-GuessingGame\bin\Debug\net8.0\Day1-GuessingGame.pdb
+D:\1-100\Day1-GuessingGame\obj\Debug\net8.0\Day1-GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-100\Day1-GuessingGame\obj\Debug\net8.0\Day1-GuessingGame.AssemblyInfoInputs.cache
+D:\1-100\Day1-GuessingGame\obj\Debug\net8.0\Day1-GuessingGame.AssemblyInfo.cs
+D:\1-100\Day1-GuessingGame\obj\Debug\net8.0\Day1-GuessingGame.csproj.CoreCompileInputs.cache
+D:\1-100\Day1-GuessingGame\obj\Debug\net8.0\Day1-GuessingGame.dll
+D:\1-100\Day1-GuessingGame\obj\Debug\net8.0\refint\Day1-GuessingGame.dll
+D:\1-100\Day1-GuessingGame\obj\Debug\net8.0\Day1-GuessingGame.pdb
+D:\1-100\Day1-GuessingGame\obj\Debug\net8.0\Day1-GuessingGame.genruntimeconfig.cache
+D:\1-100\Day1-GuessingGame\obj\Debug\net8.0\ref\Day1-GuessingGame.dll
