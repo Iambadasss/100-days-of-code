@@ -6,4 +6,8 @@
 - Focus on learning full-stack development with C# and .NET
 - Build mini-projects and document everything
 
-**Day1-guessingGame
+**Day1-GuessingGame
+
+**Day2-calculatorApp
+
+**Day1-ToDoListApp
