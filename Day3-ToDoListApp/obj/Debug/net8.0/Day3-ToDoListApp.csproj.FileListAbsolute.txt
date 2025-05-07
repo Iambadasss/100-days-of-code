@@ -1,0 +1,15 @@
+D:\1-100\Day3-ToDoListApp\bin\Debug\net8.0\Day3-ToDoListApp.exe
+D:\1-100\Day3-ToDoListApp\bin\Debug\net8.0\Day3-ToDoListApp.deps.json
+D:\1-100\Day3-ToDoListApp\bin\Debug\net8.0\Day3-ToDoListApp.runtimeconfig.json
+D:\1-100\Day3-ToDoListApp\bin\Debug\net8.0\Day3-ToDoListApp.dll
+D:\1-100\Day3-ToDoListApp\bin\Debug\net8.0\Day3-ToDoListApp.pdb
+D:\1-100\Day3-ToDoListApp\obj\Debug\net8.0\Day3-ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-100\Day3-ToDoListApp\obj\Debug\net8.0\Day3-ToDoListApp.AssemblyInfoInputs.cache
+D:\1-100\Day3-ToDoListApp\obj\Debug\net8.0\Day3-ToDoListApp.AssemblyInfo.cs
+D:\1-100\Day3-ToDoListApp\obj\Debug\net8.0\Day3-ToDoListApp.csproj.CoreCompileInputs.cache
+D:\1-100\Day3-ToDoListApp\obj\Debug\net8.0\Day3-ToDoListApp.sourcelink.json
+D:\1-100\Day3-ToDoListApp\obj\Debug\net8.0\Day3-ToDoListApp.dll
+D:\1-100\Day3-ToDoListApp\obj\Debug\net8.0\refint\Day3-ToDoListApp.dll
+D:\1-100\Day3-ToDoListApp\obj\Debug\net8.0\Day3-ToDoListApp.pdb
+D:\1-100\Day3-ToDoListApp\obj\Debug\net8.0\Day3-ToDoListApp.genruntimeconfig.cache
+D:\1-100\Day3-ToDoListApp\obj\Debug\net8.0\ref\Day3-ToDoListApp.dll
