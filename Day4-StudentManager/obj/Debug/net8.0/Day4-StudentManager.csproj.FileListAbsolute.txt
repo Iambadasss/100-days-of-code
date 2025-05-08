@@ -1,0 +1,15 @@
+D:\1-100\Day4-StudentManager\bin\Debug\net8.0\Day4-StudentManager.exe
+D:\1-100\Day4-StudentManager\bin\Debug\net8.0\Day4-StudentManager.deps.json
+D:\1-100\Day4-StudentManager\bin\Debug\net8.0\Day4-StudentManager.runtimeconfig.json
+D:\1-100\Day4-StudentManager\bin\Debug\net8.0\Day4-StudentManager.dll
+D:\1-100\Day4-StudentManager\bin\Debug\net8.0\Day4-StudentManager.pdb
+D:\1-100\Day4-StudentManager\obj\Debug\net8.0\Day4-StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-100\Day4-StudentManager\obj\Debug\net8.0\Day4-StudentManager.AssemblyInfoInputs.cache
+D:\1-100\Day4-StudentManager\obj\Debug\net8.0\Day4-StudentManager.AssemblyInfo.cs
+D:\1-100\Day4-StudentManager\obj\Debug\net8.0\Day4-StudentManager.csproj.CoreCompileInputs.cache
+D:\1-100\Day4-StudentManager\obj\Debug\net8.0\Day4-StudentManager.sourcelink.json
+D:\1-100\Day4-StudentManager\obj\Debug\net8.0\Day4-StudentManager.dll
+D:\1-100\Day4-StudentManager\obj\Debug\net8.0\refint\Day4-StudentManager.dll
+D:\1-100\Day4-StudentManager\obj\Debug\net8.0\Day4-StudentManager.pdb
+D:\1-100\Day4-StudentManager\obj\Debug\net8.0\Day4-StudentManager.genruntimeconfig.cache
+D:\1-100\Day4-StudentManager\obj\Debug\net8.0\ref\Day4-StudentManager.dll
