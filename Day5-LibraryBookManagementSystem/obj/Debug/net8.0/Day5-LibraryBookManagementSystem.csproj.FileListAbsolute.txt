@@ -1,0 +1,15 @@
+D:\1-100\Day5-LibraryBookManagementSystem\bin\Debug\net8.0\Day5-LibraryBookManagementSystem.exe
+D:\1-100\Day5-LibraryBookManagementSystem\bin\Debug\net8.0\Day5-LibraryBookManagementSystem.deps.json
+D:\1-100\Day5-LibraryBookManagementSystem\bin\Debug\net8.0\Day5-LibraryBookManagementSystem.runtimeconfig.json
+D:\1-100\Day5-LibraryBookManagementSystem\bin\Debug\net8.0\Day5-LibraryBookManagementSystem.dll
+D:\1-100\Day5-LibraryBookManagementSystem\bin\Debug\net8.0\Day5-LibraryBookManagementSystem.pdb
+D:\1-100\Day5-LibraryBookManagementSystem\obj\Debug\net8.0\Day5-LibraryBookManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-100\Day5-LibraryBookManagementSystem\obj\Debug\net8.0\Day5-LibraryBookManagementSystem.AssemblyInfoInputs.cache
+D:\1-100\Day5-LibraryBookManagementSystem\obj\Debug\net8.0\Day5-LibraryBookManagementSystem.AssemblyInfo.cs
+D:\1-100\Day5-LibraryBookManagementSystem\obj\Debug\net8.0\Day5-LibraryBookManagementSystem.csproj.CoreCompileInputs.cache
+D:\1-100\Day5-LibraryBookManagementSystem\obj\Debug\net8.0\Day5-LibraryBookManagementSystem.sourcelink.json
+D:\1-100\Day5-LibraryBookManagementSystem\obj\Debug\net8.0\Day5-LibraryBookManagementSystem.dll
+D:\1-100\Day5-LibraryBookManagementSystem\obj\Debug\net8.0\refint\Day5-LibraryBookManagementSystem.dll
+D:\1-100\Day5-LibraryBookManagementSystem\obj\Debug\net8.0\Day5-LibraryBookManagementSystem.pdb
+D:\1-100\Day5-LibraryBookManagementSystem\obj\Debug\net8.0\Day5-LibraryBookManagementSystem.genruntimeconfig.cache
+D:\1-100\Day5-LibraryBookManagementSystem\obj\Debug\net8.0\ref\Day5-LibraryBookManagementSystem.dll
