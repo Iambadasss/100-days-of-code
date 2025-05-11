@@ -1,0 +1,15 @@
+D:\1-100\Day6-BankAccountSimulator\bin\Debug\net8.0\Day6-BankAccountSimulator.exe
+D:\1-100\Day6-BankAccountSimulator\bin\Debug\net8.0\Day6-BankAccountSimulator.deps.json
+D:\1-100\Day6-BankAccountSimulator\bin\Debug\net8.0\Day6-BankAccountSimulator.runtimeconfig.json
+D:\1-100\Day6-BankAccountSimulator\bin\Debug\net8.0\Day6-BankAccountSimulator.dll
+D:\1-100\Day6-BankAccountSimulator\bin\Debug\net8.0\Day6-BankAccountSimulator.pdb
+D:\1-100\Day6-BankAccountSimulator\obj\Debug\net8.0\Day6-BankAccountSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-100\Day6-BankAccountSimulator\obj\Debug\net8.0\Day6-BankAccountSimulator.AssemblyInfoInputs.cache
+D:\1-100\Day6-BankAccountSimulator\obj\Debug\net8.0\Day6-BankAccountSimulator.AssemblyInfo.cs
+D:\1-100\Day6-BankAccountSimulator\obj\Debug\net8.0\Day6-BankAccountSimulator.csproj.CoreCompileInputs.cache
+D:\1-100\Day6-BankAccountSimulator\obj\Debug\net8.0\Day6-BankAccountSimulator.sourcelink.json
+D:\1-100\Day6-BankAccountSimulator\obj\Debug\net8.0\Day6-BankAccountSimulator.dll
+D:\1-100\Day6-BankAccountSimulator\obj\Debug\net8.0\refint\Day6-BankAccountSimulator.dll
+D:\1-100\Day6-BankAccountSimulator\obj\Debug\net8.0\Day6-BankAccountSimulator.pdb
+D:\1-100\Day6-BankAccountSimulator\obj\Debug\net8.0\Day6-BankAccountSimulator.genruntimeconfig.cache
+D:\1-100\Day6-BankAccountSimulator\obj\Debug\net8.0\ref\Day6-BankAccountSimulator.dll
